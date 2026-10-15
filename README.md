@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: David Lema, McKenna Parker, Mihir Patel, and Zamijah Shakeur-Tompkins
 
 🔗 Link to deployed app:
 
@@ -18,9 +18,9 @@ Designed and developed by: [your names here]
 
 ## Tech Stack
 
-Frontend:
+Frontend: React.js
 
-Backend:
+Backend: Express and PostgreSQL using Render
 
 ## Features
 
