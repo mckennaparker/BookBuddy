@@ -10,11 +10,11 @@ Designed and developed by: David Lema, McKenna Parker, Mihir Patel, and Zamijah 
 
 ### Description and Purpose
 
-[text goes here]
+[APP NAME] is a web app that allows users to create a reading list to keep track of books they plan on reading. Users are able to earn achievements based on reading statistics such as the number of genres read and the number of total pages read. Eventually, a user will have built up a list of finished books they can access at a moment's notice, letting them look back on their reading journey.
 
 ### Inspiration
 
-[text goes here]
+It can be difficult to find motivation to read on your own time. Having a page to list out all the things you want to read can make it easier to decide what to read first. Knocking books off of the list one at a time can also be a satisfying experience.
 
 ## Tech Stack
 
@@ -24,25 +24,59 @@ Backend: Express and PostgreSQL using Render
 
 ## Features
 
-### [Name of Feature 1]
+### Log in with GitHub
 
-[short description goes here]
-
-[gif goes here]
-
-### [Name of Feature 2]
-
-[short description goes here]
+Users must log in with a GitHub account in order to use the app.
 
 [gif goes here]
 
-### [Name of Feature 3]
+### Reading list view
 
-[short description goes here]
+Users can view the current books in their reading list, as well as books from their reading list they have finished reading.
 
 [gif goes here]
 
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+### Add book
+
+Users can add a book to their reading list. They must input the title, author(s), genre(s), and length in pages.
+
+[gif goes here]
+
+### Update book info
+
+Users can correct the information of any book in their reading list.
+
+[gif goes here]
+
+### Remove book
+
+Users can remove a book from their reading list.
+
+[gif goes here]
+
+### Finish book
+
+Users can mark a book from their reading list as "finished", removing it from the reading list and adding it to a completed books archive.
+
+[gif goes here]
+
+### View completed books
+
+Users can view all the books from their reading list that were finished.
+
+[gif goes here]
+
+### Earn achievements
+
+Users can earn achievements based on reading stats accumulated by finishing books from their reading list.
+
+[gif goes here]
+
+### View achievements
+
+Users can view a list of earned achievements and a list of all possible achievements.
+
+[gif goes here]
 
 ## Installation Instructions
 
