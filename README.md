@@ -1,4 +1,4 @@
-# [your app name here]
+# BookBuddy
 
 CodePath WEB103 Final Project
 
@@ -10,7 +10,7 @@ Designed and developed by: David Lema, McKenna Parker, Mihir Patel, and Zamijah 
 
 ### Description and Purpose
 
-[APP NAME] is a web app that allows users to create a reading list to keep track of books they plan on reading. Users are able to earn achievements based on reading statistics such as the number of genres read and the number of total pages read. Eventually, a user will have built up a list of finished books they can access at a moment's notice, letting them look back on their reading journey.
+BookBuddy is a web app that allows users to create a reading list to keep track of books they plan on reading. Users are able to earn achievements based on reading statistics such as the number of genres read and the number of total pages read. Eventually, a user will have built up a list of finished books they can access at a moment's notice, letting them look back on their reading journey.
 
 ### Inspiration
 
