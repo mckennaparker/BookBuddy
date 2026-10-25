@@ -43,10 +43,4 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 # Add the Entity Relationship Diagram
 
-[👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
-
-| Column Name | Type | Description |
-|-------------|------|-------------|
-| id | integer | primary key |
-| name | text | name of the shoe model |
-| ... | ... | ... |
+<img width="452" height="352" alt="darkerd drawio" src="https://github.com/user-attachments/assets/a5858b61-75e3-48d5-98df-e03c92540579" />
