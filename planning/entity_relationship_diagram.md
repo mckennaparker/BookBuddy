@@ -43,4 +43,4 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 # Add the Entity Relationship Diagram
 
-<img width="452" height="352" alt="darkerd drawio" src="https://github.com/user-attachments/assets/a5858b61-75e3-48d5-98df-e03c92540579" />
+<img width="1023" height="575" alt="Untitled" src="https://github.com/user-attachments/assets/9e9cd566-05ef-4755-8990-348034d4ede8" />
