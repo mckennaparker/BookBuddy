@@ -11,12 +11,12 @@ Reference the Wireframing final project guide in the course portal for more info
 
 ## Wireframe 1: Home Page
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/11b36222-c974-491e-b39f-f3e52bdfae44" />
 
 ## Wireframe 2: Add Page
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/d462ef91-d960-450f-a79c-41f169e425e2" />
 
 ## Wireframe 3: Achievements Page
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/86457ae1-b4f5-4214-8918-5623f3c3df87" />
