@@ -24,6 +24,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 | list_id | integer | id of the associated reading list |
 | title | text | title of the book |
 | author | text | author(s) of the book |
+| genre | text | genre(s) of the book |
 | year | integer | the year the book was first published |
 | page_count | integer | number of pages in the book |
 | status | ReadingStatus | reading progress of the book |
@@ -51,4 +52,4 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 # Add the Entity Relationship Diagram
 
-<img width="1023" height="607" alt="Untitled" src="https://github.com/user-attachments/assets/7e3378b0-111a-4f5d-bb31-79c55b5b3264" />
+<img width="1023" height="639" alt="Untitled(1)" src="https://github.com/user-attachments/assets/a45cd8b9-981b-4424-9233-c33ecfe5a778" />
