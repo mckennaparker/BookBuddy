@@ -26,6 +26,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 | author | text | author(s) of the book |
 | year | integer | the year the book was first published |
 | page_count | integer | number of pages in the book |
+| status | ReadingStatus | reading progress of the book |
 
 ## Achievement
 | Column Name | Type | Description |
@@ -41,6 +42,13 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 | achievement_id | integer | id of the associated achievement |
 | user_id | integer | id of the user that earned the achievement |
 
+## Reading Status (ENUM)
+| Name | Description |
+|-------------|-------------|
+| UNREAD | user has not started reading |
+| READING | user is currently reading |
+| FINISHED | user has finished reading |
+
 # Add the Entity Relationship Diagram
 
-<img width="1023" height="575" alt="Untitled" src="https://github.com/user-attachments/assets/9e9cd566-05ef-4755-8990-348034d4ede8" />
+<img width="1023" height="607" alt="Untitled" src="https://github.com/user-attachments/assets/7e3378b0-111a-4f5d-bb31-79c55b5b3264" />
